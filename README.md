@@ -1,7 +1,7 @@
 # referenciacatastral
-Código fuente en python y harbour/hmg para validar referencia catastral urbana en España peninsular e insualar (Canarias y Baleares)
+Código fuente en python y harbour/hmg para validar referencia catastral urbana en España peninsular, Ceuta, Melilla e insular (Canarias y Baleares)
 
-En el año 1998 Pizarra 1.0 y la actualización 1.1 permiten a los colaboradores del Ministerio de Economía (vía la Dirección del Catastro) comunicar sujetos pasivos  en España respecto de lasr alteraciones catastrales. El primer programa fue desarrollado usando el framework Fivewin 2.0 por un programador de la Dirección General del Catastro en Madrid. Se denominó PIZARRA 1.0. Después de la versión 1.1, la Dirección General del Catastro, a través de la unidad de Nuevas Tecnologías crea en Visual Basic 6.0 PADECA 2.3. Después pasa a ser una aplicación web cloud con soporte de webservice.
+En el año 1998 Pizarra 1.0 y la actualización 1.1 permiten a los colaboradores del Ministerio de Economía (vía la Dirección del Catastro) comunicar sujetos pasivos  en España respecto de las alteraciones catastrales. El primer programa que validaba la referencia catastral fue desarrollado usando el framework Fivewin 2.0 por un programador de la Dirección General del Catastro en Madrid. Se denominó PIZARRA 1.0. Después de la versión 1.1, la Dirección General del Catastro, a través de la unidad de Nuevas Tecnologías crea en Visual Basic 6.0 PADECA 2.3, para realizar la misma función. Después pasa a ser una aplicación web cloud con soporte de webservice.
 
 La aplicación PADECA era usada por despachos notariales y profesionales para comunicar las alteraciones catastrales al CATASTRO, la Dirección General encargada de esa competencia.
  
